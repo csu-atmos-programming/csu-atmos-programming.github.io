@@ -6,7 +6,7 @@ project:
   # description:
   # keywords: []
   # authors: []
-  github: https://github.com/jthielen/csu-atmos-programming.github.io
+  github: https://github.com/csu-atmos-programming/csu-atmos-programming.github.io
   # To autogenerate a Table of Contents, run "myst init --write-toc"
 site:
   template: book-theme

@@ -6,6 +6,10 @@ title: CSU ATS Programming TA Resources
 
 As this semester’s programming TAs, we’ll be available to help support you in all your coursework-related needs in programming, software, and data use. Throughout the semester, we'll be holding workshops, including a series for incoming students to get up to speed with all the basic programming skills you'd need for your first year courses as well as additional workshops for any student looking enchance your skills. We will also be holding regular office hours (see below for schedule).
 
+:::{important}
+This site is not a finished product; we will be updating it with new content throughout the semester. So, keep checking back at this same URL for updates!
+:::
+
 ## Office Hours
 
 - Mondays 1:00-3:00 pm
@@ -25,12 +29,18 @@ As this semester’s programming TAs, we’ll be available to help support you i
 
 ## Workshop Schedule
 
+### Introduction to Programming for Incoming Students
+
 - Friday August 23rd from 1 - 3 PM (1300-1500)
 - Wednesday August 28th from 1 - 3 PM (1300-1500)
 - Friday September 6th from 1 - 3 PM (1300-1500)
 - Friday September 27th from 10 - 4 PM (1000-1600)
 
 The tentative location for all workshops is the main classroom ATS 101.
+
+### Additional Topics
+
+Keep an eye out here and via the ats-students email listserv for upcoming announcements about further workshops on other additional topics!
 
 ## Contact Info
 

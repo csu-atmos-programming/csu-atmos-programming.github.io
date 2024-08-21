@@ -23,6 +23,15 @@ As this semester’s programming TAs, we’ll be available to help support you i
     - ATS Community Space Conference Room (ATS Main 116)
     - With Justin
 
+## Workshop Schedule
+
+- Friday August 23rd from 1 - 3 PM (1300-1500)
+- Wednesday August 28th from 1 - 3 PM (1300-1500)
+- Friday September 6th from 1 - 3 PM (1300-1500)
+- Friday September 27th from 10 - 4 PM (1000-1600)
+
+The tentative location for all workshops is the main classroom ATS 101.
+
 ## Contact Info
 
 Justin Hudson<br>

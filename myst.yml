@@ -8,8 +8,15 @@ project:
   # authors: []
   github: https://github.com/csu-atmos-programming/csu-atmos-programming.github.io
   # To autogenerate a Table of Contents, run "myst init --write-toc"
+  toc:
+    - file: index.md
+    - file: workshops.md
+      children:
+        - pattern: 'workshop_notebooks/*.ipynb'
+    
 site:
   template: book-theme
-  # options:
+  options:
+    logo: images/prog_ta_logo.png
   #   favicon: favicon.ico
-  #   logo: site_logo.png
+

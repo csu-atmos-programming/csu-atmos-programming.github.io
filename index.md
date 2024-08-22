@@ -16,7 +16,8 @@ This site is not a finished product; we will be updating it with new content thr
     - ATS Community Space Conference Room (ATS Main 116)
     - With Justin
 - Wednesdays 1:00-3:00 pm
-    - Riehl Conference Room (ACRC 211) and via Teams
+    - ACRC Classroom (ACRC 212B) and via Teams
+        - *New location compared to original announcement!*
     - With JT
     - Contact JT or see email for Teams meeting link
 - Thursdays 1:00-2:50 pm

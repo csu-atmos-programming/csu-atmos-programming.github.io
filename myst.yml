@@ -13,6 +13,7 @@ project:
     - file: workshops.md
       children:
         - pattern: 'workshop_notebooks/*.ipynb'
+        - pattern: 'workshop_notebooks/*.md'
     
 site:
   template: book-theme

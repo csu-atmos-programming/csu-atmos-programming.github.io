@@ -43,6 +43,11 @@ The tentative location for all workshops is the main classroom ATS 101.
 
 Keep an eye out here and via the ats-students email listserv for upcoming announcements about further workshops on other additional topics!
 
+Planned topics include (but will not be limited to!)
+
+- Colormaps, basic color theory, and making CVD-friendly figures
+- Intro to LaTeX
+
 ## Contact Info
 
 Justin Hudson<br>

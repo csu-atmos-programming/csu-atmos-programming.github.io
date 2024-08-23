@@ -1,5 +1,5 @@
 ---
-title: CSU Atmos. Sci. Programmming Tutorials
+title: Programmming Tutorials
 ---
 
 ## Intro to Programming

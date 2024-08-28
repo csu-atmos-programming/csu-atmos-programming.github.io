@@ -1,8 +1,8 @@
 ---
-title: "Workshop 1 Optional Exercises"
-date: 2024-08-23
+title: "Workshop 2 Optional Exercises"
+date: 2024-08-28
 authors:
-  - name: Justin Hudson
+  - name: JT Thielen
 ---
 
 ## Introduction

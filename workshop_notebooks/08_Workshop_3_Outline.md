@@ -14,7 +14,7 @@ In this workshop, we'll be covering all the basics you need to get ready for doi
 - Intro to conda
     - [This cheat sheet may come in handy!](https://docs.conda.io/projects/conda/en/4.6.0/_downloads/52a95608c49671267e40c689e0bc00ca/conda-cheatsheet.pdf)
     - This will include a basic intro to the python terminal/REPL
-    - An important link you may need to copy/paste: `https://csu-atmos-programming.github.io/static/environment.yml` (this will get you a nice environment of packages for atmospheric sciences)
+    - This command will download a sample environment file: `wget https://raw.githubusercontent.com/csu-atmos-programming/csu-atmos-programming.github.io/main/static/environment.yml` (this will get you a nice environment of packages for atmospheric sciences)
 - Intro to JupyterLab
 - Intro to VS Code
 - Using remote systems (like Asha)

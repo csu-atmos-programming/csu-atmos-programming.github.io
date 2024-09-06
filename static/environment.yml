@@ -1,0 +1,23 @@
+name: atmos
+channels:
+  - conda-forge
+dependencies:
+  - jupyterlab
+  - numpy
+  - xarray
+  - pandas
+  - matplotlib
+  - cartopy
+  - numba
+  - cmweather
+  - metpy
+  - arm_pyart
+  - dask
+  - netcdf4
+  - geopandas
+  - tqdm
+  - pytest
+  - cfgrib
+  - networkx
+  - geoviews
+  - holoviews

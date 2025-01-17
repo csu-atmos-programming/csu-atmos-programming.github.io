@@ -4,55 +4,34 @@ title: CSU ATS Programming TA Resources
 
 ## Welcome!
 
-As this semester’s programming TAs, we’ll be available to help support you in all your coursework-related needs in programming, software, and data use. Throughout the semester, we'll be holding workshops, including a series for incoming students to get up to speed with all the basic programming skills you'd need for your first year courses as well as additional workshops for any student looking enchance your skills. We will also be holding regular office hours (see below for schedule).
+As this semester’s programming TA, I’ll be available to help support you in all your coursework-related needs in programming, software, and data use. Throughout the semester, there will also be a short series of workshops to help further the programming skills you are likely to find useful while working in our scientific field. I will also be holding regular office hours (see below for schedule).
 
 :::{important}
-This site is not a finished product; we will be updating it with new content throughout the semester. So, keep checking back at this same URL for updates!
+This site is regularly updated with workshop information and any schedule/location changes for office hours. So, keep checking back at this same URL for the most up to date information!
 :::
 
 ## Office Hours
 
-- Mondays 1:00-3:00 pm
+- Tuesdays 12:00-1:50 pm
+    - ATS West Conference Room (ATS West 215)
+- Wednesdays 12:00-1:50 pm
     - ATS Community Space Conference Room (ATS Main 116)
-    - With Justin
-- Wednesdays 1:00-3:00 pm
-    - ACRC Classroom (ACRC 212B) and via Teams
-        - *New location compared to original announcement!*
-    - With JT
-    - Contact JT or see email for Teams meeting link
 - Thursdays 1:00-2:50 pm
     - ATS Community Space Conference Room (ATS Main 116)
-    - With JT
-    - Contact JT or see email for Teams meeting link
-- Fridays 1:00-3:00 pm
-    - ATS Community Space Conference Room (ATS Main 116)
-    - With Justin
+
+These office hours will be primarly held in person, but remote attendence via Teams will be available by request (simply email JT ahead of or during the given office hour time) or if the office hours need to be fully remote due to space unavailability. 
 
 ## Workshop Schedule
 
-### Introduction to Programming for Incoming Students
+Keep an eye out here and via the email listservs for upcoming announcements about upcoming workshops!
 
-- Friday August 23rd from 1 - 3 PM (1300-1500)
-- Wednesday August 28th from 1 - 3 PM (1300-1500)
-- Friday September 6th from 1 - 3 PM (1300-1500)
-- Friday September 27th from 10 - 4 PM (1000-1600)
-
-The tentative location for all workshops is the main classroom ATS 101.
-
-### Additional Topics
-
-Keep an eye out here and via the ats-students email listserv for upcoming announcements about further workshops on other additional topics!
-
-Planned topics include (but will not be limited to!)
+Planned topics for this semester include:
 
 - Colormaps, basic color theory, and making CVD-friendly figures
-- Intro to LaTeX
+- Intro to LaTeX and Markdown, with modern toolkits for using them
+- How Git and GitHub can help keep track of and verify correctness of your code
 
 ## Contact Info
-
-Justin Hudson<br>
-justin.hudson@colostate.edu<br>
-ACRC 105
 
 JT Thielen<br>
 jt.thielen@colostate.edu<br>

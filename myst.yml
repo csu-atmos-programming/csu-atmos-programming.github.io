@@ -10,9 +10,10 @@ project:
   # To autogenerate a Table of Contents, run "myst init --write-toc"
   toc:
     - file: index.md
-    - file: workshops.md
+    - file: intro_workshops.md
       children:
-        - pattern: 'workshop_notebooks/*_*.*'
+        - pattern: 'intro_workshop_notebooks/*_*.*'
+    - file: skills_workshops_spring25.md
     
 site:
   template: book-theme

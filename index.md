@@ -12,27 +12,28 @@ This site is regularly updated with workshop information and any schedule/locati
 
 ## Office Hours
 
-- Tuesdays 12:00-1:50 pm
-    - ATS West Conference Room (ATS West 215)
-- Wednesdays 12:00-1:50 pm
+- Mondays 2:00-3:00 pm
     - ATS Community Space Conference Room (ATS Main 116)
-- Thursdays 1:00-2:50 pm
-    - ATS Community Space Conference Room (ATS Main 116)
+- Wednesdays 2:00-3:00 pm
+    - Riehl Conference Room (ACRC 211)
+- Fridays 2:00-3:00 pm
+    - Virtual only (Teams)
 
-These office hours will be primarly held in person, but remote attendence via Teams will be available by request (simply email JT ahead of or during the given office hour time) or if the office hours need to be fully remote due to space unavailability. 
+These office hours will be primarly held in person, but remote attendence via Teams will be available by request (simply email Caleb ahead of or during the given office hour time) or if the office hours need to be fully remote due to space unavailability. 
 
 ## Workshop Schedule
 
 Keep an eye out here and via the email listservs for upcoming announcements about upcoming workshops!
+Previous workshops will still be available on this page in the meantime - see "Intro to Programming Tutorials" on the left (or below)!
 
 Planned topics for this semester include:
 
-- Colormaps, basic color theory, and making CVD-friendly figures
-- Intro to LaTeX and Markdown, with modern toolkits for using them
+- Using VS Code and extensions
+- Helpful python packages for Meteorology
 - How Git and GitHub can help keep track of and verify correctness of your code
 
 ## Contact Info
 
-JT Thielen<br>
-jt.thielen@colostate.edu<br>
-ATS Main 412
+Caleb Steele<br>
+caleb.steele@colostate.edu<br>
+ATS Main 411

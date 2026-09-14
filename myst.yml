@@ -9,8 +9,8 @@ project:
   github: https://github.com/csu-atmos-programming/csu-atmos-programming.github.io
   # To autogenerate a Table of Contents, run "myst init --write-toc"
   toc:
-    - file: GettingStarted.md
     - file: index.md
+    - file: Getting_Started.md
     - file: intro_workshops.md
       children:
         - pattern: 'intro_workshop_notebooks/*_*.*'
